@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/MScResearch/Code/ModelCode/YoloV8/Data/Japan
+train: train/images
+val: train/images
+nc: 4
+names: ['D00', 'D10', 'D20', 'D40']
